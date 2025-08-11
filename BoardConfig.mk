@@ -159,4 +159,4 @@ TW_LOAD_VENDOR_MODULES := "adsp_loader_dlkm.ko focaltech_touch.ko goodix_core.ko
 TW_CUSTOM_CPU_TEMP_PATH := "/sys/class/thermal/thermal_zone48/temp"
 TW_BATTERY_SYSFS_WAIT_SECONDS := 6
 TW_BACKUP_EXCLUSIONS := /data/fonts
-TW_DEVICE_VERSION := by kibria5
+TW_DEVICE_VERSION := by RifsxD
